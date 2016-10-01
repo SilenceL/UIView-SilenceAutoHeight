@@ -1,7 +1,7 @@
 //
 //  UIView+SilenceAutoHeight.h
 //
-//  Created by 刘西南 on 16/9/30.
+//  Created by Silence on 16/9/30.
 //  Copyright © 2016年 Silence. All rights reserved.
 //
 
